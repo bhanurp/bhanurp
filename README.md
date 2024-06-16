@@ -4,7 +4,7 @@
 
 -->
 - I 💙 building software products. It gives a lot of happiness when it helps others in multiple ways.
-- 🔭 I’m working on improving JFrog Pipelines(CI product), which is part of JFrog JPD.
+- 🔭 I’m currently working on improving JFrog Artifactory user plugins and workers. I have worked on Jfrog Pipelines(CI/CD)tool in previous assignment which is part of JFrog JPD. I have worked on JFrog infra services as well which are common across JPD platform.
 - 🏃 I am working on Golang, NodeJS & Typescript as part of my current assignment.
 - 🚶 I have worked on ☕ Java and 🐍 Python in previous assignments.
 - 🧑‍🚀 I am exploring TypeScript.
