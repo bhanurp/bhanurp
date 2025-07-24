@@ -9,7 +9,7 @@
 I love building software products that solve real-world problems and bring value to others. There’s nothing that gives more happiness than seeing the positive impact of a solution.
 
 🔭 **Current Focus**  
-Currently, I'm working on enhancing **JFrog Artifactory** user plugins and workers. In a previous role, I contributed to **JFrog Pipelines (CI/CD)**, part of the **JFrog JPD** platform, and worked on infrastructure services that are core to the platform.
+Currently, I'm working on enhancing **JFrog CLI** and its ecosystem. In a previous role, I contributed to **JFrog Artifactory** **JFrog Pipelines (CI/CD)**, part of the **JFrog JPD** platform, and worked on infrastructure services that are core to the platform.
 
 🏃 **Languages I Speak (Code-wise)**  
 I write code in **Java**, **Golang**, **NodeJS**, **Python**, and **TypeScript**. I like how each language has its own strengths, and I enjoy using different ones in my projects.
